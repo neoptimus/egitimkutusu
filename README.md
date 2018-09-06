@@ -1,2 +1,3 @@
 # egitimkutusu
-Egitim icerikleri ve dersler
+Egitim icerikleri ve dersleri
+kizilBaykus
